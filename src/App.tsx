@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import SignUpForm from "./components/SignUpForm";
-import LoginForm from "./components/LoginForm";
+import SignUpForm from "./components/SignUpForm.tsx";
+import LoginForm from "./components/LoginForm.tsx";
 import "./styles/forms.css";
 
 const App: React.FC = () => {
